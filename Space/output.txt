@@ -1,0 +1,2 @@
+Hello, QA engineer!
+Добавили ещё строку
